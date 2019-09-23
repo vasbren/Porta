@@ -10,8 +10,8 @@ a{
 
 #logo{
     position: absolute;
-    width: 100%;
-    
+    width: 10%;
+    margin: 10px auto;
 }
 .menu ul {
     width: 150px;
@@ -42,7 +42,4 @@ a{
 .menu ul li a:focus + ul,
 .nav ul li ul:hover{
     display: block;
-}
-#logo {
-    margin: 10px auto;
 }
