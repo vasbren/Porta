@@ -43,3 +43,6 @@ a{
 .nav ul li ul:hover{
     display: block;
 }
+#logo {
+    margin: 10px auto;
+}
