@@ -13,3 +13,33 @@ a{
     width: 100%;
     
 }
+.menu ul {
+    width: 150px;
+    position: absolute;
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+
+.menu a {
+    display: block;
+    padding: 20px;
+    background-color: #67aaa3;
+    text-decoration: none;
+    text-align: center;
+    color: #ffffff;
+}
+
+.menu a:focus {
+    background-color: #406d68;
+}
+
+.menu ul li ul {
+    display: none;
+}
+
+.menu ul li a:focus + ul,
+.nav ul li ul:hover{
+    display: block;
+}
