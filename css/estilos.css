@@ -9,7 +9,7 @@ a{
 }
 
 #logo{
-    position: flex;
+    position: relative;
     margin-left: 43%;
     padding-left: auto;
     padding-right: auto;
