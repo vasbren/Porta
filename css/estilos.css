@@ -9,7 +9,10 @@ a{
 }
 
 #logo{
-    width: 5%;
+    position: absolute;
+    padding-left: auto;
+    padding-right: auto;
+    width: 2%;
 }
 
 .menu ul {
