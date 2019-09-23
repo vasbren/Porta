@@ -11,8 +11,10 @@ a{
 #logo{
     position: absolute;
     width: 10%;
+    height: 100px;
     margin: 10px auto;
 }
+
 .menu ul {
     width: 150px;
     position: absolute;
